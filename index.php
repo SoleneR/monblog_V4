@@ -1,5 +1,4 @@
 <?php
-//commentaire pour test retour arrière
 require './Controleur/actions.php';
 
 try {
